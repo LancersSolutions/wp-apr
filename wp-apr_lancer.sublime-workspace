@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"R",
+				"RCtrl"
+			],
+			[
+				"me",
+				"media_next"
+			],
+			[
+				"fal",
+				"false"
+			],
+			[
+				"word",
+				"word_wrap"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"diff",
+				"Git: Diff All"
+			],
+			[
+				"gui",
+				"Git: Gui"
+			],
+			[
+				"git gui",
+				"Git: Gui"
+			],
+			[
+				"git di",
+				"Git: Diff All"
+			],
+			[
+				"git: ",
+				"Git: Diff All"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git:",
+				"Git: Init"
+			],
+			[
+				"githu",
+				"Github: Open File"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"autoho",
+				"Set Syntax: AutoHotKey"
+			],
+			[
+				"mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"",
+				"Sort Lines"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/x/.ssh/known_hosts",
+		"/C/Users/x/AppData/Roaming/Sublime Text 2/Packages/User/Git.sublime-settings",
+		"/C/Users/x/AppData/Roaming/Sublime Text 2/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/C/Users/x/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/.data/Documents/AppData/SublimeText2/Packages/Git/Git.sublime-settings",
+		"/C/localhost/ProjectFixum/ProjectFixum/index.php",
+		"/C/Users/x/AppData/Roaming/Sublime Text 2/Packages/sublime-github/GitHub.sublime-settings",
+		"/C/localhost/ProjectFixum/index.php",
+		"/D/Data/Downloads/bookmarks.txt",
+		"/C/Data/Downloads/bookmarks.html",
+		"/C/Apps/Rainmeter/Skins/HUD.Vision/Black/Clock.Vision/Clock.Vision.ini",
+		"/C/Apps/Rainmeter/Skins/HUD.Vision/Black/Clock_acc_wclock/Clock_acc_wclock.ini",
+		"/C/Apps/Rainmeter/Skins/HUD.Vision/Black/x-GoogleTrends/gtrends.ini",
+		"/C/Users/hkv/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/hkv/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/hkv/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"numpaddel",
+			"send, {RAlt}",
+			"RCtrl",
+			"\n;#",
+			"comments",
+			"http://www.reddit.com/r/",
+			"oneno",
+			"url=http://",
+			"Time_Left",
+			"	$",
+			"\n	",
+			"ctrl",
+			"wordWrap"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.952606635071,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 276.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"clock",
+				"Skins/HUD.Vision/Black/Clock.Vision/Clock.Vision.ini"
+			],
+			[
+				"hud.vision/black/clock_acc_wclock",
+				"Skins/HUD.Vision/Black/Clock_acc_wclock/Clock_acc_wclock.ini"
+			],
+			[
+				"gtr",
+				"Skins/HUD.Vision/Black/x-GoogleTrends/gtrends.ini"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
